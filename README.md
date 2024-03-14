@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on nothing. I do solos. 
 - 📫 How to reach me : bymythdzn@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like gaming...and anime.
+- ⚡ Fun fact: I'm a graphic designer, I like gaming...and anime.
