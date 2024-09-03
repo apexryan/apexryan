@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ryan K.
-- 👀 I’m interested in you :)
-- 🌱 I’m currently learning C, C++, Java, Javascript, Python, Html, Go and Rust.
+- 👋 Hi, I’m Rupayan Kumar.
+- 🌱 I’m currently learning C, C++, Java, Javascript, Python and Html.
 - 💞️ I’m looking to collaborate on nothing. I do solos. 
 - 📫 How to reach me : bymythdzn@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a graphic designer, I like gaming...and anime.
