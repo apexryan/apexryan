@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rupayan Kumar.
-- 🌱 I’m currently learning C, C++, Java, Javascript, Python and Html.
-- 💞️ I’m looking to collaborate on nothing. I do solos. 
+- 🌱 I’m currently learning C, Python, Javascript and Html/Css.
 - 📫 How to reach me : bymythdzn@gmail.com 
 - 😄 Pronouns: He/Him
