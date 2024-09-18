@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Rupayan Kumar.
 - 🌱 I’m currently learning C, Python, Javascript and Html/Css.
 - 📫 How to reach me : bymythdzn@gmail.com 
-- 😄 Pronouns: He/Him
