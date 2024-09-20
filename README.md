@@ -10,7 +10,7 @@
 <h3 align="left">My portfolios :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rupayankr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupayankr" height="30" width="40" /></a>
-<a href="https://www.behance.net/mythdzns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mythdzns" height="30" width="40" /></a>
+<a href="https://www.behance.net/mythdzns" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="mythdzns" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
