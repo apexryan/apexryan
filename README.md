@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **C, Python, Javascript, Html/Css and Ui/Ux.**
 
-- 📫 How to reach me **bymythdzn@gmail.com**
+- 🖊️ I'm also a freelance graphic designer!
+
+- 📫 How to reach me - **bymythdzn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
