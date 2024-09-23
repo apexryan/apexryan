@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupayan Kumar</h1>
 <h3 align="center">A passionate developer and freelance artist.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apexryan&label=Profile%20views&color=0e75b6&style=flat" alt="apexryan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apexryan" alt="apexryan" /></a> </p>
 
 - 🌱 I’m currently learning **C, Python, Javascript, Html/Css and Ui/Ux.**
 
