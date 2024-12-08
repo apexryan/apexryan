@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupayan Kumar</h1>
 <h3 align="center">A passionate developer and freelance artist.</h3>
 
-- 🌱 I’m currently learning **C, Python, Javascript, Html/Css and Ui/Ux.**
+- 🌱 I’m currently learning **C, Python, Javascript, Html/CSS and UI/UX.**
 
 - 🖊️ I'm also a freelance graphic designer!
 
