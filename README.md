@@ -1,5 +1,5 @@
 # 💫 About Me ~
-👋Hi, I'm Rupayan.<br>🤘A passionate developer and an aspiring SDE/SWE.<br>🌱 I’m currently learning Java, Springboot, Html/CSS, UI/UX and more.<br><br>🖊️ I'm also a freelance graphic designer!
+👋Hi, I'm Rupayan.<br>🤘A passionate developer and an aspiring SDE/SWE.<br>🌱 I’m currently learning Java, Springboot, Html/CSS, UI/UX and more.<br>🖊️ I'm also a freelance graphic designer!
 
 
 ## 🌐 Socials:
